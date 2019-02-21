@@ -1,0 +1,21 @@
+<html>
+<head>
+<style>
+.goku{border: solid black 20px}
+#reallybigcat{background-color: black}
+</style>
+</head>
+<body>
+this is kefla
+<br/>
+<img width=100 src="C:\Users\Buyer\Desktop\TLSSJKefla.webp">
+<div>
+this is a big kefla!
+<img src ="C:\Users\Buyer\Desktop\TLSSJKefla.webp">
+</div>
+<div id="reallybigcat">
+this is a MUI Goku
+<img class="goku" style="width: 100%;" src="C:\Users\Buyer\Desktop\Dragon-Ball-Super-625x352.jpg"><><><><><><>
+</div>
+</body>
+</html><><>
